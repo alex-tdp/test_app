@@ -1,0 +1,19 @@
+.wrapper {
+    width: 840px;
+    margin: 0 auto;
+    text-align: center;
+}
+.inputWrap {
+    margin-top: 20px;
+}
+.inputWrap input {
+    margin: 0 5px;
+}
+
+.btn {
+    color: grey;
+    width: 70px;
+    height: 25px;
+    margin-top: 10px;
+    cursor: pointer;
+}

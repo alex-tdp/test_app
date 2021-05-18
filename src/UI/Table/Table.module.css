@@ -1,0 +1,30 @@
+.wrapper {
+    width: 840px;
+    margin: 0 auto;
+}
+
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    /* border: 0.5px solid grey; */
+}
+
+.sp {
+    color: grey
+}
+
+.btn {
+    color: grey;
+    width: 60px;
+    height: 25px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.wrap span {
+    padding: 2px;
+    font-size: 20px;
+    width: 280px;
+    border: 0.5px solid grey;;
+    text-align: left;
+}

@@ -1,0 +1,8 @@
+.pagination {
+    text-align: center;
+    font-size: 18px;
+}
+
+.arrow {
+    cursor: pointer;
+}
